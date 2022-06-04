@@ -1,0 +1,15 @@
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/Jumper Game.csproj.AssemblyReference.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/Jumper Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/Jumper Game.AssemblyInfoInputs.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/Jumper Game.AssemblyInfo.cs
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/Jumper Game.csproj.CoreCompileInputs.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/bin/Debug/net6.0/Jumper Game
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/bin/Debug/net6.0/Jumper Game.deps.json
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/bin/Debug/net6.0/Jumper Game.runtimeconfig.json
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/bin/Debug/net6.0/Jumper Game.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/bin/Debug/net6.0/Jumper Game.pdb
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/Jumper Game.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/refint/Jumper Game.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/Jumper Game.pdb
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/Jumper Game.genruntimeconfig.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Jumper Game/obj/Debug/net6.0/ref/Jumper Game.dll
